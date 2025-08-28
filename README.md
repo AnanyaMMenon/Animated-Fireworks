@@ -7,3 +7,5 @@ Bring the magic of fireworks to the web using JavaScript and the HTML5 Canvas AP
 - Particle-based effects with customizable speed, direction, and gravity  
 - Canvas rendering with smooth trails and explosion effects  
 - Interactive mouse controls to trigger fireworks manually  
+
+![Fireworks Demo](https://user-images.githubusercontent.com/.../fireworks-demo.gif)
